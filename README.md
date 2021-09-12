@@ -8,5 +8,7 @@ This is one of the task which is assigned by Elite Techno Groups (ETG) under the
 6. In which year India won first Gold Medal in Summer Olympics?
 7. Which event is most popular in terms on number of players? (Top 5)
 8. Which sport is having most female Gold Medalists? (Top 5)
+
 Also we've been asked to draw bar-graphs for those questions which are followed by (Top 5).
+
 All these tasks are accomplished in the summer.ipynb file of this repository.
